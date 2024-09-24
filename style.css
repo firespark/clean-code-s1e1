@@ -20,6 +20,7 @@ button {
   outline: none;
 }
 
+
 /* Heading */
 
 h3,
@@ -53,6 +54,7 @@ h3,
   font-family: fantasy, cursive;
 }
 
+
 /* Main */
 
 .main-screen {
@@ -60,6 +62,7 @@ h3,
   width: 500px;
   margin: 0 auto 0;
 }
+
 
 /* Task */
 
@@ -104,11 +107,13 @@ h3,
   color: #333;
 }
 
+
 /* New Task */
 
 #new-task {
   width: 318px;
 }
+
 
 /* Task list */
 
@@ -150,12 +155,14 @@ h3,
   transform: rotateZ(0);
 }
 
+
 /* Completed */
 
 #completed-tasks .label {
   text-decoration: line-through;
   color: #888;
 }
+
 
 /* Edit Task */
 
@@ -177,5 +184,5 @@ h3,
   .header {
     text-align: center;
   }
-  
+
 }
